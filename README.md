@@ -54,37 +54,52 @@
   
 <img src="https://github-readme-stats.vercel.app/api?username=Amey2506&theme=tokyonight&show_icons=true" alt="GitHub Stats"/>
 
-<!-- Interactive Tetris Game with GitHub Contributions -->
+<!-- Animated Code Runner Game -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
+</div>
+
 <details>
-<summary>🎮 Play Tetris with My GitHub Activity! (Click to expand)</summary>
+<summary>🎮 Code Runner Challenge - Dodge the Bugs! (Click to Play)</summary>
 <br>
 
+<div align="center">
+
 ```
-🎯 GITHUB TETRIS CHALLENGE 🎯
-Try to clear lines by completing tasks!
+🏃‍♂️ AMEY'S CODE RUNNER ADVENTURE 🏃‍♂️
 
-██▓▓░░░░░░  ← Current level: Learning AI/ML
-██▓▓▓▓░░░░  ← Current level: Building React Apps  
-██▓▓▓▓▓▓░░  ← Current level: Cloud Deployment
-██▓▓▓▓▓▓▓▓  ← LEVEL COMPLETE: Python Mastery! 🎉
+     🌟 LEVEL 1: JUNIOR DEVELOPER 🌟
+┌─────────────────────────────────────────────────────┐
+│  🏃‍♂️💨     🐛        ☕       🐛      🚀    │
+│                                                     │
+│  Score: 2506 pts    Lives: ❤️❤️❤️    Speed: ⚡⚡⚡  │
+│                                                     │
+│  🔥     🐛        💎       🐛        📚           │
+└─────────────────────────────────────────────────────┘
 
-🕹️ Controls:
-[↓] Push more commits    [←→] Switch between projects
-[↻] Refactor code       [🔥] Deploy to production
+🎯 OBJECTIVES:
+┌─ Collect Power-ups ─┬─ Avoid Obstacles ─┬─ Achievements ─┐
+│ ☕ Coffee = +Speed  │ 🐛 Bugs = -Life   │ 🏆 Bug Slayer  │
+│ 📚 Docs = +Points   │ 💀 Errors = -2    │ ⚡ Speed Demon │
+│ 💎 Clean Code = x2  │ 🔥 Burnout = Game │ 🚀 Deployer    │
+│ 🚀 Deploy = Level+  │    Over           │ 💎 Perfectionist│
+└─────────────────────┴───────────────────┴─────────────────┘
 
-💫 Power-ups Collected:
-☕ Coffee Boost (+10 coding speed)
-📚 Stack Overflow Knowledge (+5 debugging power)  
-🐛 Bug Squasher (eliminates 3 bugs instantly)
-🚀 Deployment Master (auto-deploy feature unlocked)
+📊 PROGRESS TRACKER:
+Python     ████████████████████ 100% ✅
+React      ████████████████░░░░  80% 🔄
+AI/ML      ████████████░░░░░░░░  60% 📈
+Cloud      ████████░░░░░░░░░░░░  40% 🌱
+DevOps     ████░░░░░░░░░░░░░░░░  20% 🔧
 
-🏆 High Score: 2506 commits this year!
-🎖️ Current Streak: Getting stronger every day
+🏅 CURRENT STATUS: 
+└─ You're in the zone! Keep coding! 💻✨
 ```
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
-  <i>Achievement Unlocked: Code Wizard! ✨</i>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="120"/>
+  <br>
+  <i>Power-up activated! Coding speed +200% 🚀</i>
 </div>
 
 </details>
@@ -209,5 +224,3 @@ Try to clear lines by completing tasks!
   <br>
   <i>Thanks for visiting! May your code be bug-free and your coffee be strong! ☕🚀</i>
 </div>
-
-<!-- Powered by GPRM, reliable memes, and way too much caffeine ☕😎 -->
